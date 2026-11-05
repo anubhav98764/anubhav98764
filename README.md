@@ -1,6 +1,48 @@
 
 # 💫 About Me:
-Anubhav<br>TYBCS Student | Software Developer & Python/Web Enthusiast<br>Third-Year Bachelor of Computer Science (TYBCS) student passionate about building dynamic web platforms and cross-platform applications. <br>Focused on mastering core backend systems, mobile development, and data manipulation.<br>⚡ Current FocusWeb Engineering: Building dynamic web applications using Flask and PHP.<br>Mobile Development: Learning Mobile Application Development (MAD) and Java.<br>Data Processing: Working with Python DataFrames for data manipulation and analysis.<br>🛠️ Tech Stack & SkillsCategoryTechnologiesLanguagesPython, Java, PHP, JavaScriptWeb TechnologiesFlask, HTML5, CSS3, Web API IntegrationMobile & BackendMobile Application Development (MAD), Server-Side ScriptingData & AnalyticsPandas (Python DataFrames),<br> SQL
+# Anubhav Singh
+
+Third-year B.Sc. Computer Science student at Prof. Ramkrishna More College, Pune. Graduating in 2027, current CGPA 8.45/10.
+
+I want to work in data engineering. At the moment that means getting comfortable with Python and SQL, cleaning and reshaping data with Pandas, and understanding how databases are designed. I'm looking for a data engineering or data analytics internship where I can learn on real data.
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Python, SQL, Java, C |
+| **Data** | Pandas, NumPy, Scikit-learn, Matplotlib |
+| **Web (from projects)** | React.js, Node.js, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Overleaf |
+| **Coursework** | Data Structures, DBMS, Operating Systems, Computer Networks |
+
+## Learning next
+
+- Advanced SQL and PostgreSQL
+- Data cleaning and transformation with Pandas
+- ETL pipelines and data modeling
+- Apache Airflow and Spark, once the basics are solid
+
+The first thing I plan to build with this: a small pipeline that takes a messy CSV dataset, cleans it with Pandas, and loads it into PostgreSQL.
+
+## Projects
+
+### [3D Sorting Algorithm Visualizer](https://github.com/anubhav98764/REPLACE-WITH-REPO-NAME)
+A web app that shows sorting algorithms as 3D bar graphs. You can step through an algorithm one move at a time, or run two algorithms side by side to compare how they behave. Includes user login.
+`React.js` `Node.js` `MongoDB`
+
+### Sahayak: Elder-Care Assistance Initiative
+A team project on coordinating voice-call and field support for elderly people. I worked on the service framework, the problem statement, and the research workflow. Prototyping was done in Figma.
+`Figma` `System Design` `Research`
+
+## Other
+
+- Participated in the RDX Coding Competition
+- Completed a hands-on ethical hacking workshop
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/anubhav-singh-379510373) · [Email](mailto:singhanubhav00013@gmail.com)
 
 
 ## 🌐 Socials:
