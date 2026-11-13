@@ -10,11 +10,10 @@ I want to work in data engineering. At the moment that means getting comfortable
 
 | | |
 |---|---|
-| **Languages** | Python, SQL, Java, C |
+| **Languages** | Python, SQL |
 | **Data** | Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Web (from projects)** | React.js, Node.js, MongoDB |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Overleaf |
-| **Coursework** | Data Structures, DBMS, Operating Systems, Computer Networks |
+| **Coursework** | DBMS, Operating Systems, Computer Networks |
 
 ## Learning next
 
