@@ -2,7 +2,7 @@
 
 <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:0d1117,100:1f6feb&fontColor=ffffff&text=Anubhav%20Singh&fontSize=44&fontAlignY=40&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62" />
 
-**B.Sc. Computer Science (2027)** · Prof. Ramkrishna More College, Pune · CGPA 8.45/10
+**B.Sc. Computer Science (2027)** · Prof. Ramkrishna More College, Pune · CGPA 8.68/10
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-379510373)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhanubhav00013@gmail.com)
@@ -14,7 +14,7 @@
 
 I'm a third-year Computer Science student building a path into **data engineering**. Right now that means getting comfortable with Python and SQL, cleaning and reshaping data with Pandas, and understanding how databases are designed.
 
-I'm looking for a **data engineering or data analytics internship** where I can learn on real data.
+
 
 ## Contribution Activity
 
