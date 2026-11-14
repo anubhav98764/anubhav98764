@@ -1,67 +1,77 @@
+<div align="center">
 
-# 💫 About Me:
 # Anubhav Singh
 
-Third-year B.Sc. Computer Science student at Prof. Ramkrishna More College, Pune. Graduating in 2027, current CGPA 8.45/10.
+**Aspiring Data Engineer · B.Sc. Computer Science (2027)**
 
-I want to work in data engineering. At the moment that means getting comfortable with Python and SQL, cleaning and reshaping data with Pandas, and understanding how databases are designed. I'm looking for a data engineering or data analytics internship where I can learn on real data.
+Prof. Ramkrishna More College, Pune · CGPA 8.45/10
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-379510373)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhanubhav00013@gmail.com)
+![Status](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square)
 
-| | |
-|---|---|
-| **Languages** | Python, SQL |
-| **Data** | Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Overleaf |
+</div>
 
-## Learning next
+---
+
+## About Me
+
+I'm a third-year Computer Science student building a path into **data engineering**. Right now that means getting comfortable with Python and SQL, cleaning and reshaping data with Pandas, and understanding how databases are designed.
+
+I'm looking for a **data engineering or data analytics internship** where I can learn on real data.
+
+## Tech Stack
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) |
+| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white) |
+
+## Currently Learning
 
 - Advanced SQL and PostgreSQL
 - Data cleaning and transformation with Pandas
 - ETL pipelines and data modeling
 - Apache Airflow and Spark, once the basics are solid
 
-The first thing I plan to build with this: a small pipeline that takes a messy CSV dataset, cleans it with Pandas, and loads it into PostgreSQL.
+**Up next:** a small pipeline that takes a messy CSV dataset, cleans it with Pandas, and loads it into PostgreSQL.
 
 ## Projects
 
-### [3D Sorting Algorithm Visualizer](https://github.com/anubhav98764/REPLACE-WITH-REPO-NAME)
-A web app that shows sorting algorithms as 3D bar graphs. You can step through an algorithm one move at a time, or run two algorithms side by side to compare how they behave. Includes user login.
-`React.js` `Node.js` `MongoDB`
+### [3D Sorting Algorithm Visualizer](https://github.com/anubhav98764/YOUR-REPO-NAME)
+A web app that shows sorting algorithms as 3D bar graphs. Step through an algorithm one move at a time, or run two algorithms side by side to compare how they behave. Includes user login.
+
+`React.js` · `Node.js` · `MongoDB`
 
 ### Sahayak: Elder-Care Assistance Initiative
 A team project on coordinating voice-call and field support for elderly people. I worked on the service framework, the problem statement, and the research workflow. Prototyping was done in Figma.
-`Figma` `System Design` `Research`
 
+`Figma` · `System Design` · `Research`
 
-## Contact
+## GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/anubhav-singh-379510373) · [Email](mailto:singhanubhav00013@gmail.com)
+<div align="center">
 
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anubhav98764&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav98764&theme=github_dark&hide_border=true&layout=compact" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanubhav00013@gmail.com) 
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=anubhav98764&theme=github-dark&hide_border=true" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anubhav98764&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anubhav98764&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anubhav98764&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anubhav98764&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anubhav98764&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Optional: keep only if the profile-3d-contrib workflow is set up in this repo -->
+<!--
+<div align="center">
+<img alt="3D contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
+</div>
+-->
 
 ---
-[![](https://komarev.com/ghpvc/?username=anubhav98764&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📊 My 3D GitHub Contributions
+<div align="center">
 
-![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/anubhav-singh-379510373) · [Email](mailto:singhanubhav00013@gmail.com)
+
+</div>
