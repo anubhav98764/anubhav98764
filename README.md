@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-379510373)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhanubhav00013@gmail.com)
-![Status](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9935305550)
 
 </div>
 
@@ -74,7 +74,7 @@ A team project on coordinating voice-call and field support for elderly people. 
 
 <div align="center">
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/anubhav-singh-379510373) · [Email](mailto:singhanubhav00013@gmail.com)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/anubhav-singh-379510373) · [Email](mailto:singhanubhav00013@gmail.com) 
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0d1117,100:1f6feb" />
 
