@@ -56,16 +56,19 @@ A team project on coordinating voice-call and field support for elderly people. 
 
 `Figma` · `System Design` · `Research`
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anubhav98764&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav98764&theme=github_dark&hide_border=true&layout=compact" />
+<img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=anubhav98764&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anubhav98764&theme=github_dark&hide_border=true&layout=compact&hide=javascript" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=anubhav98764&theme=github-dark&hide_border=true" />
 
 </div>
+
 
 ---
 
