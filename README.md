@@ -4,10 +4,9 @@
 
 **Aspiring Data Engineer · B.Sc. Computer Science (2027)**
 
-Prof. Ramkrishna More College, Pune · CGPA 8.45/10
+Prof. Ramkrishna More College, Pune · CGPA 8.68/10
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-379510373)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhanubhav00013@gmail.com)
 
 
