@@ -13,7 +13,6 @@ I want to work in data engineering. At the moment that means getting comfortable
 | **Languages** | Python, SQL |
 | **Data** | Pandas, NumPy, Scikit-learn, Matplotlib |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Overleaf |
-| **Coursework** | DBMS, Operating Systems, Computer Networks |
 
 ## Learning next
 
@@ -34,10 +33,6 @@ A web app that shows sorting algorithms as 3D bar graphs. You can step through a
 A team project on coordinating voice-call and field support for elderly people. I worked on the service framework, the problem statement, and the research workflow. Prototyping was done in Figma.
 `Figma` `System Design` `Research`
 
-## Other
-
-- Participated in the RDX Coding Competition
-- Completed a hands-on ethical hacking workshop
 
 ## Contact
 
