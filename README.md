@@ -51,10 +51,7 @@ A web app that shows sorting algorithms as 3D bar graphs. Step through an algori
 
 `React.js` · `Node.js` · `MongoDB`
 
-### Sahayak: Elder-Care Assistance Initiative
-A team project on coordinating voice-call and field support for elderly people. I worked on the service framework, the problem statement, and the research workflow. Prototyping was done in Figma.
 
-`Figma` · `System Design` · `Research`
 
 
 ## GitHub Stats
